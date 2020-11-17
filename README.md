@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+hehe haha
 
 ## Person B:
 
@@ -12,11 +12,11 @@ Favorite color and a saying of the day! Yay!
 
 ## Person C:
 
-Person C should modify content here.
+Hi, it's Christina! I'm person C!
 
 ## Person D:
 
-Person D should modify content here.
+I like cats
 
 ## Person E:
 
